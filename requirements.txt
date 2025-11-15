@@ -1,0 +1,10 @@
+aiogram==3.*
+dramatiq==1.*
+psycopg2-binary==2.*          
+sqlalchemy==2.*        
+python-dotenv==1.* 
+redis==5.0.1
+pytz==2024.1
+sqlalchemy[asyncio]>=2.0.0
+asyncpg
+aiosqlite
